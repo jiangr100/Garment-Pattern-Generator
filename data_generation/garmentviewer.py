@@ -7,6 +7,9 @@
 
 from maya import cmds
 
+import sys
+
+sys.path.append('C:\\Users\\Rui_work\\Documents\\Garment-Pattern-Generator\\packages')
 # My modules
 import mayaqltools as mymaya
 reload(mymaya)

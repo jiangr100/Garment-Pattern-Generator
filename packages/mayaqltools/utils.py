@@ -155,6 +155,7 @@ def scale_to_cm(target, max_height_cm=220):
     # check for througth height (Y axis)
     # NOTE prone to fails if non-meter units are used for body
     bb = cmds.polyEvaluate(target, boundingBox=True)  # ((xmin,xmax), (ymin,ymax), (zmin,zmax))
+    print(bb)
     height = bb[1][1] - bb[1][0]
     if height < max_height_cm * 0.01:  # meters
         cmds.scale(100, 100, 100, target, centerPivot=True, absolute=True)

@@ -85,13 +85,15 @@ def batch_sim(resources, data_path, dataset_props,
         os.path.join(resources['bodies_path'], dataset_props['body']),
         dataset_props['render'], 
         scenes_path=resources['scenes_path'])
-    
+
+    print("data_path, dataset_props: ", data_path, dataset_props)
     pattern_specs = _get_pattern_files(data_path, dataset_props)
     data_props_file = os.path.join(data_path, 'dataset_properties.json')
 
     # Simulate every template
     count = 0
     for pattern_spec in pattern_specs:
+        print("spec_name: ", pattern_spec)
         # skip processed cases -- in case of resume. First condition needed to skip checking second one on False =) 
         pattern_spec_norm = os.path.normpath(pattern_spec)
         pattern_name = BasicPattern.name_from_path(pattern_spec_norm)
@@ -107,7 +109,8 @@ def batch_sim(resources, data_path, dataset_props,
                             dataset_props['sim'], 
                             delete_on_clean=True,  # delete geometry after sim as we don't need it any more
                             caching=caching, 
-                            save_maya_scene=False)
+                            save_maya_scene=False,
+                            save_path=dataset_props['garment_save_folder'])
         
         if pattern_name in dataset_props['sim']['stats']['fails']['crashes']:
             # if we successfully finished simulating crashed example -- it's not a crash any more!
@@ -203,7 +206,8 @@ def init_sim_props(props, batch_run=False, force_restart=False):
     return False
         
 
-def template_simulation(spec, scene, sim_props, delete_on_clean=False, caching=False, save_maya_scene=False):
+def template_simulation(spec, scene, sim_props, delete_on_clean=False,
+                        caching=False, save_maya_scene=False, save_path=None):
     """
         Simulate given template within given scene & save log files
     """
@@ -225,8 +229,11 @@ def template_simulation(spec, scene, sim_props, delete_on_clean=False, caching=F
         qw.run_sim(garment, sim_props)
 
         # save even if sim failed -- to see what happened!
-        garment.save_mesh(tag='sim')
-        scene.render(garment.path, garment.name)
+        garment.save_mesh(folder='' if save_path is None else save_path, tag='sim')
+
+        if 'render_image' in sim_props['config'] and sim_props['config']['render_image'] == True:
+            scene.render(garment.path, garment.name)
+
         if save_maya_scene:
             # save current Maya scene
             cmds.file(rename=os.path.join(garment.path, garment.name + '_scene'))

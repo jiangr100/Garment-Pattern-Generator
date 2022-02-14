@@ -64,14 +64,14 @@ class BasicPattern(object):
 
     # ------------ Interface -------------
 
-    def __init__(self, pattern_file=None):
+    def __init__(self, pattern_file=None, is_simulation=True):
         
         self.spec_file = pattern_file
         
         if pattern_file is not None: # load pattern from file
             self.path = os.path.dirname(pattern_file)
             self.name = BasicPattern.name_from_path(pattern_file)
-            self.reloadJSON()
+            self.reloadJSON(is_simulation)
         else: # create empty pattern
             self.path = None
             self.name = self.__class__.__name__
@@ -79,7 +79,7 @@ class BasicPattern(object):
             self.pattern = self.spec['pattern']
             self.properties = self.spec['properties']  # mandatory part
 
-    def reloadJSON(self):
+    def reloadJSON(self, is_simulation=True):
         """(Re)loads pattern info from spec file. 
         Useful when spec is updated from outside"""
         if self.spec_file is None:
@@ -92,9 +92,28 @@ class BasicPattern(object):
             self.spec = json.load(f_json)
         self.pattern = self.spec['pattern']
         self.properties = self.spec['properties']  # mandatory part
+        if 'global_translation' in self.spec:
+            self.global_translation = self.spec['global_translation']
+        else:
+            self.global_translation = None
 
         # template normalization - panel translations and curvature to relative coords
         self._normalize_template()
+
+        # add a global translation in case of different object fit
+        if self.global_translation is not None and is_simulation:
+            for panel_name in self.pattern['panels']:
+                self.pattern['panels'][panel_name]['translation'][0] += self.global_translation['height'][0]
+                self.pattern['panels'][panel_name]['translation'][1] += self.global_translation['height'][1]
+                self.pattern['panels'][panel_name]['translation'][2] += self.global_translation['height'][2]
+                if 'front' in panel_name:
+                    self.pattern['panels'][panel_name]['translation'][0] += self.global_translation['front'][0]
+                    self.pattern['panels'][panel_name]['translation'][1] += self.global_translation['front'][1]
+                    self.pattern['panels'][panel_name]['translation'][2] += self.global_translation['front'][2]
+                if 'back' in panel_name:
+                    self.pattern['panels'][panel_name]['translation'][0] += self.global_translation['back'][0]
+                    self.pattern['panels'][panel_name]['translation'][1] += self.global_translation['back'][1]
+                    self.pattern['panels'][panel_name]['translation'][2] += self.global_translation['back'][2]
 
     def serialize(self, path, to_subfolder=True, tag=''):
         # log context
@@ -534,8 +553,8 @@ class ParametrizedPattern(BasicPattern):
         Extention to BasicPattern that can work with parametrized patterns
         Update pattern with new parameter values & randomize those parameters
     """
-    def __init__(self, pattern_file=None):
-        super(ParametrizedPattern, self).__init__(pattern_file)
+    def __init__(self, pattern_file=None, is_simulation=True):
+        super(ParametrizedPattern, self).__init__(pattern_file, is_simulation)
         self.parameters = self.spec['parameters']
 
         self.parameter_defaults = {
@@ -576,10 +595,10 @@ class ParametrizedPattern(BasicPattern):
         
         self._update_pattern_by_param_values()
 
-    def reloadJSON(self):
+    def reloadJSON(self, is_simulation=True):
         """(Re)loads pattern info from spec file. 
         Useful when spec is updated from outside"""
-        super(ParametrizedPattern, self).reloadJSON()
+        super(ParametrizedPattern, self).reloadJSON(is_simulation)
 
         self.parameters = self.spec['parameters']
         self._normalize_param_scaling()

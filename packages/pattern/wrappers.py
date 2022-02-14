@@ -33,8 +33,8 @@ class VisPattern(core.ParametrizedPattern):
 
     # ------------ Interface -------------
 
-    def __init__(self, pattern_file=None, view_ids=True):
-        super().__init__(pattern_file)
+    def __init__(self, pattern_file=None, is_simulation=True, view_ids=True):
+        super().__init__(pattern_file, is_simulation)
 
         # tnx to this all patterns produced from the same template will have the same 
         # visualization scale
@@ -209,10 +209,10 @@ class RandomPattern(VisPattern):
     """
 
     # ------------ Interface -------------
-    def __init__(self, template_file):
+    def __init__(self, template_file, is_simulation=True):
         """Note that this class requires some input file: 
             there is not point of creating this object with empty pattern"""
-        super().__init__(template_file, view_ids=False)  # don't show ids for datasets
+        super().__init__(template_file, is_simulation, view_ids=False)  # don't show ids for datasets
 
         # update name for a random pattern
         self.name = self.name + '_' + self._id_generator()

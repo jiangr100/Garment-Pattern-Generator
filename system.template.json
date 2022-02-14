@@ -1,6 +1,6 @@
 {
-  "output": "",
-  "datasets_path": "",
+  "output": "./output",
+  "datasets_path": "./datasets",
   "templates_path": "./data_generation/Patterns",
   "bodies_path": "./data_generation/Bodies",
   "scenes_path": "./data_generation/Scenes",

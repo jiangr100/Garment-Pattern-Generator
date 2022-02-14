@@ -55,7 +55,7 @@ def generate(path, templates_path, props):
     path_with_dataset = _create_data_folder(path, props)
 
     # Copy template files with pattern for convernience 
-    template = pattern.VisPattern(template_file_path)
+    template = pattern.VisPattern(template_file_path, is_simulation=False)
     template.serialize(path_with_dataset, to_subfolder=False, tag='_template')
 
     # init random seed
@@ -66,7 +66,7 @@ def generate(path, templates_path, props):
     # generate data
     start_time = time.time()
     for _ in range(props['size']):
-        new_pattern = pattern.RandomPattern(template_file_path)
+        new_pattern = pattern.RandomPattern(template_file_path, is_simulation=False)
         new_pattern.serialize(path_with_dataset, 
                               to_subfolder=props['to_subfolders'])
     elapsed = time.time() - start_time
@@ -76,26 +76,35 @@ def generate(path, templates_path, props):
     props.serialize(path_with_dataset / 'dataset_properties.json')
 
 
+def generation_by_bulk(garment_spec_path, system_props, new, dataset_size):
+
+    for spec in os.listdir(garment_spec_path):
+
+        if new:
+            props = Properties()
+            props.set_basic(
+                templates=str(Path(garment_spec_path + '/' + spec)),
+                name=spec.split('.')[0] + '_%04d'%dataset_size,
+                size=dataset_size,
+                to_subfolders=True)
+            props.set_section_config('generator')
+        else:
+            props = Properties(
+                Path(system_props['datasets_path']) / 'pants_straight_sides_1000/dataset_properties.json',
+                True)
+        props.add_sys_info()  # update this info regardless of the basic config
+
+        # Generator
+        generate(system_props['datasets_path'], system_props['templates_path'], props)
+
+
 # ------------------ MAIN ------------------------
 if __name__ == "__main__":
     
-    system_props = Properties('./system.json')
-    
-    new = True
-    if new:
-        props = Properties()
-        props.set_basic(
-            templates='pants/pants_straight_sides.json',
-            name='data_5',
-            size=5,
-            to_subfolders=True)
-        props.set_section_config('generator')
-    else:
-        props = Properties(
-            Path(system_props['datasets_path']) / 'pants_straight_sides_1000/dataset_properties.json', 
-            True)
-    props.add_sys_info()  # update this info regardless of the basic config
-
-    # Generator
-    generate(system_props['datasets_path'], system_props['templates_path'], props)
+    generation_by_bulk(
+        'C:\\Users\\Rui_work\\Documents\\Garment-Pattern-Generator\\data_generation\\Patterns\\upper_body_altered',
+        system_props=Properties('./system.json'),
+        new=True,
+        dataset_size=20
+    )
 

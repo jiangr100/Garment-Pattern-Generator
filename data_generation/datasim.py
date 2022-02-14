@@ -17,6 +17,11 @@ import sys
 from maya import cmds
 import maya.standalone 	
 
+for p in sys.path:
+    print(p)
+# sys.path.append('C:\\Users\\Rui_work\\Documents\\Garment-Pattern-Generator\\packages')
+# maya.standalone.initialize()
+
 # My modules
 import customconfig
 # reload in case we are in Maya internal python environment
@@ -60,7 +65,7 @@ if __name__ == "__main__":
 
     command_args = get_command_args()
 
-    system_config = customconfig.Properties('../system.json')  # Make sure it's in \Autodesk\MayaNNNN\
+    system_config = customconfig.Properties('./system.json')  # Make sure it's in \Autodesk\MayaNNNN\
     path = system_config['templates_path']
 
     # ------ Dataset ------

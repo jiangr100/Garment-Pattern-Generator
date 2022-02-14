@@ -12,6 +12,8 @@ import numpy as np
 import os
 import time
 
+from pathlib import Path
+
 # Maya
 from maya import cmds
 from maya import OpenMaya
@@ -161,6 +163,11 @@ class MayaGarment(core.ParametrizedPattern):
             filepath = folder
         else:
             filepath = self.path
+
+        filepath = str(Path(filepath))
+        if not os.path.exists(filepath):
+            os.makedirs(filepath)
+
         self._save_to_path(filepath, self.name + '_' + tag)
 
     def sim_caching(self, caching=True):
@@ -691,6 +698,8 @@ class MayaGarment(core.ParametrizedPattern):
             values = panel_dict[attribute]
         else:
             values = [0, 0, 0]
+        print(values)
+
         cmds.setAttr(
             panel_group + '.' + maya_attr, 
             values[0], values[1], values[2],
