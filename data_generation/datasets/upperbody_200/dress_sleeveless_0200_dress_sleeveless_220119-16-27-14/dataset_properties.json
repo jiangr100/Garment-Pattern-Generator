@@ -1,0 +1,26 @@
+{
+  "data_folder": "dress_sleeveless_0200_dress_sleeveless_220119-16-27-14",
+  "generator": {
+    "config": {
+      "random_seed": 1642602434
+    },
+    "stats": {
+      "generation_time": "6.635 s"
+    }
+  },
+  "name": "dress_sleeveless_0200",
+  "size": 200,
+  "system_info": {
+    "GPU": [
+      "NVIDIA GeForce RTX 3070"
+    ],
+    "architecture": "AMD64",
+    "platform": "Windows",
+    "platform-release": "10",
+    "platform-version": "10.0.19042",
+    "processor": "AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD",
+    "ram": "8 GB"
+  },
+  "templates": "C:\\Users\\Rui_work\\Documents\\Garment-Pattern-Generator\\data_generation\\Patterns\\upper_body\\dress_sleeveless.json",
+  "to_subfolders": true
+}

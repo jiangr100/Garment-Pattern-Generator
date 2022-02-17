@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="390px" version="1.1" width="1554px">
+  <defs/>
+  <path d="M 60 177 L 186 177 Q 222.3 89.10000000000001 171 60 L 60 114 L 60 177 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="94.25" y="135.0">rbsleeve</text>
+  <path d="M 246 123 L 357 177 Q 408.3 147.9 372 60 L 246 60 L 246 123 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="280.25" y="108.0">rfsleeve</text>
+  <path d="M 456 330 L 576 330 L 600 174 Q 549.9 145.8 585 60 L 561 60 L 516 69 L 471 60 L 447 60 Q 482.1 145.8 432 174 L 456 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="491.0" y="149.33333333333334">back</text>
+  <path d="M 684 330 L 804 330 L 828 174 Q 777.9 145.8 813 60 L 789 60 L 744 90 L 699 60 L 675 60 Q 710.1 145.8 660 174 L 684 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="719.0" y="151.66666666666666">front</text>
+  <path d="M 897 177 L 909 177 Q 984.5999999999999 188.7 975 84 L 933 93 L 888 60 L 897 177 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="895.4" y="121.2">Rhood</text>
+  <path d="M 1035 177 L 1080 144 L 1122 153 Q 1131.6 48.300000000000004 1056 60 L 1044 60 L 1035 177 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1042.4" y="121.8">Lhood</text>
+  <path d="M 1182 123 L 1293 177 Q 1344.3 147.9 1308 60 L 1182 60 L 1182 123 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1216.25" y="108.0">lbsleeve</text>
+  <path d="M 1368 177 L 1494 177 Q 1530.3 89.10000000000001 1479 60 L 1368 114 L 1368 177 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1402.25" y="135.0">lfsleeve</text>
+</svg>

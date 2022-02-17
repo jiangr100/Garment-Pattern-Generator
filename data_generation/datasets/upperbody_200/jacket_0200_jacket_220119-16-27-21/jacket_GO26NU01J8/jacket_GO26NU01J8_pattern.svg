@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="507.0px" version="1.1" width="1426.0px">
+  <defs/>
+  <path d="M 60 183 L 141 183 Q 163.8 123.60000000000001 129 105 L 60 60 L 60 183 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="72.5" y="135.75">rbsleeve</text>
+  <path d="M 212.5 183.0 L 281.5 138.0 Q 316.3 119.39999999999999 293.5 60.0 L 212.5 60.0 L 212.5 183.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="225.0" y="113.25">rfsleeve</text>
+  <path d="M 365.0 447.0 L 500.0 447.0 L 500.0 132.0 L 485.0 60.0 L 434.0 60.0 Q 456.8 119.39999999999999 422.0 138.0 L 365.0 447.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="426.0" y="217.0">front_right</text>
+  <path d="M 596.0 447.0 L 866.0 447.0 L 809.0 138.0 Q 774.1999999999999 119.39999999999999 797.0 60.0 L 746.0 60.0 Q 731.0 159.8447124903222 716.0 60.0 L 665.0 60.0 Q 687.8000000000001 119.39999999999999 653.0 138.0 L 596.0 447.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="706.0" y="179.25">back</text>
+  <path d="M 926.0 447.0 L 1061.0 447.0 L 1004.0 138.0 Q 969.1999999999999 119.39999999999999 992.0 60.0 L 941.0 60.0 L 926.0 132.0 L 926.0 447.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="950.0" y="217.0">front_left</text>
+  <path d="M 1121.0 183.0 L 1190.0 138.0 Q 1224.8 119.39999999999999 1202.0 60.0 L 1121.0 60.0 L 1121.0 183.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1133.5" y="113.25">lbsleeve</text>
+  <path d="M 1273.5 183.0 L 1354.5 183.0 Q 1377.3 123.60000000000001 1342.5 105.0 L 1273.5 60.0 L 1273.5 183.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1286.0" y="135.75">lfsleeve</text>
+</svg>

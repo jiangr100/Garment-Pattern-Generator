@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="351px" version="1.1" width="1438.0px">
+  <defs/>
+  <path d="M 60 291 L 135 291 L 174 60 L 90 60 Q 103.5 139.5 60 150 Q 74.1 157.05 60 291 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="78.8" y="173.4">Rback</text>
+  <path d="M 273 291 L 348 291 Q 333.9 157.05 348 150 Q 309.0 138.0 318 60 L 234 60 L 273 291 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="279.2" y="173.4">Rfront</text>
+  <path d="M 408 81 L 447 81 L 486 81 L 486 60 L 408 60 L 408 81 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="422.0" y="75.6">wb_back</text>
+  <path d="M 552.0 81.0 L 591.0 81.0 L 630.0 81.0 L 630.0 60.0 L 552.0 60.0 L 552.0 81.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="566.0" y="75.6">wb_front</text>
+  <path d="M 706.0 174.0 L 838.0 174.0 L 838.0 129.0 Q 807.6999999999999 111.89999999999999 829.0 60.0 L 784.0 60.0 Q 772.0 82.75098442106203 760.0 60.0 L 715.0 60.0 Q 736.3000000000001 111.89999999999999 706.0 129.0 L 706.0 174.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="747.0" y="108.75">top_back</text>
+  <path d="M 898.0 174.0 L 1030.0 174.0 L 1030.0 126.0 Q 1000.9 109.8 1021.0 60.0 L 976.0 60.0 L 964.0 105.0 L 952.0 60.0 L 907.0 60.0 Q 927.1 109.79999999999998 898.0 126.0 L 898.0 174.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="939.0" y="108.0">top_front</text>
+  <path d="M 1129.0 291.0 L 1204.0 291.0 Q 1189.9 157.05 1204.0 150.0 Q 1160.5 139.5 1174.0 60.0 L 1090.0 60.0 L 1129.0 291.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1135.2" y="173.4">Lback</text>
+  <path d="M 1264.0 291.0 L 1339.0 291.0 L 1378.0 60.0 L 1294.0 60.0 Q 1303.0 138.0 1264.0 150.0 Q 1278.1 157.05 1264.0 291.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1282.8" y="173.4">Lfront</text>
+</svg>

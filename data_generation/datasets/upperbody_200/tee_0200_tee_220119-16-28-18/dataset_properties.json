@@ -1,0 +1,26 @@
+{
+  "data_folder": "tee_0200_tee_220119-16-28-18",
+  "generator": {
+    "config": {
+      "random_seed": 1642602498
+    },
+    "stats": {
+      "generation_time": "9.393 s"
+    }
+  },
+  "name": "tee_0200",
+  "size": 200,
+  "system_info": {
+    "GPU": [
+      "NVIDIA GeForce RTX 3070"
+    ],
+    "architecture": "AMD64",
+    "platform": "Windows",
+    "platform-release": "10",
+    "platform-version": "10.0.19042",
+    "processor": "AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD",
+    "ram": "8 GB"
+  },
+  "templates": "C:\\Users\\Rui_work\\Documents\\Garment-Pattern-Generator\\data_generation\\Patterns\\upper_body\\tee.json",
+  "to_subfolders": true
+}

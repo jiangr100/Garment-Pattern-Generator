@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="234px" version="1.1" width="1434.0px">
+  <defs/>
+  <path d="M 60 174 L 123 174 L 180 60 L 90 60 Q 95.1 123.75 60 129 Q 64.5 131.25 60 174 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="77.6" y="122.4">Rback</text>
+  <path d="M 297 174 L 360 174 Q 355.5 131.25 360 129 Q 328.35 122.25 330 60 L 240 60 L 297 174 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="292.4" y="122.4">Rfront</text>
+  <path d="M 420 66 L 459 66 L 498 66 L 498 60 L 420 60 L 420 66 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="434.0" y="66.6">wb_back</text>
+  <path d="M 564.0 66.0 L 603.0 66.0 L 642.0 66.0 L 642.0 60.0 L 564.0 60.0 L 564.0 66.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="578.0" y="66.6">wb_front</text>
+  <path d="M 718.0 141.0 L 832.0 141.0 L 832.0 129.0 Q 801.6999999999999 111.89999999999999 823.0 60.0 L 808.0 60.0 Q 775.0 124.56619502435042 742.0 60.0 L 727.0 60.0 Q 748.3000000000001 111.89999999999999 718.0 129.0 L 718.0 141.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="750.0" y="100.5">top_back</text>
+  <path d="M 892.0 141.0 L 1006.0 141.0 L 1006.0 129.0 Q 975.6999999999999 111.89999999999999 997.0 60.0 L 982.0 60.0 L 949.0 96.0 L 916.0 60.0 L 901.0 60.0 Q 922.3000000000001 111.89999999999999 892.0 129.0 L 892.0 141.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="924.0" y="100.33333333333333">top_front</text>
+  <path d="M 1131.0 174.0 L 1194.0 174.0 Q 1189.5 131.25 1194.0 129.0 Q 1158.9 123.75 1164.0 60.0 L 1074.0 60.0 L 1131.0 174.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1126.4" y="122.4">Lback</text>
+  <path d="M 1254.0 174.0 L 1317.0 174.0 L 1374.0 60.0 L 1284.0 60.0 Q 1285.65 122.25 1254.0 129.0 Q 1258.5 131.25 1254.0 174.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1271.6" y="122.4">Lfront</text>
+</svg>

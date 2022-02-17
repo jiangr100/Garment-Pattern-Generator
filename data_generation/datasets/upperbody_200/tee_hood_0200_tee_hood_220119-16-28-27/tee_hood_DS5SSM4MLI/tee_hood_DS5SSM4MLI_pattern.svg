@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="420px" version="1.1" width="1494px">
+  <defs/>
+  <path d="M 60 210 L 189 210 Q 209.4 154.79999999999998 177 138 L 60 60 L 60 210 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="96.5" y="157.5">rbsleeve</text>
+  <path d="M 249 210 L 366 132 Q 398.40000000000003 115.2 378 60 L 249 60 L 249 210 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="285.5" y="118.5">rfsleeve</text>
+  <path d="M 438 360 L 588 360 L 576 132 Q 544.5 114.0 567 60 L 549 60 L 513 69 L 477 60 L 459 60 Q 481.5 114.0 450 132 L 438 360 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="488.0" y="146.66666666666666">back</text>
+  <path d="M 648 360 L 798 360 L 786 132 Q 754.5 114.0 777 60 L 759 60 L 723 72 L 687 60 L 669 60 Q 691.5 114.0 660 132 L 648 360 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="698.0" y="147.0">front</text>
+  <path d="M 858 171 L 885 171 Q 957.0 166.5 927 72 L 894 81 L 858 60 L 858 171 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="859.4" y="114.0">Rhood</text>
+  <path d="M 987 171 L 1023 150 L 1056 159 Q 1086.0 64.5 1014 60 L 987 60 L 987 171 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="988.4" y="123.0">Lhood</text>
+  <path d="M 1116 210 L 1233 132 Q 1265.3999999999999 115.2 1245 60 L 1116 60 L 1116 210 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1152.5" y="118.5">lbsleeve</text>
+  <path d="M 1305 210 L 1434 210 Q 1454.3999999999999 154.79999999999998 1422 138 L 1305 60 L 1305 210 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1341.5" y="157.5">lfsleeve</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="234px" version="1.1" width="1776px">
+  <defs/>
+  <path d="M 60 141 L 165 141 Q 189.0 79.50000000000001 153 60 L 60 72 L 60 141 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="84.5" y="106.5">rbsleeve</text>
+  <path d="M 225 129 L 318 141 Q 354.0 121.5 330 60 L 225 60 L 225 129 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="249.5" y="100.5">rfsleeve</text>
+  <path d="M 390 174 Q 519.0 110.62626634027444 648 174 L 597 102 L 585 60 L 453 60 L 441 102 L 390 174 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="494.0" y="115.0">skirt_back</text>
+  <path d="M 708 174 Q 837.0 152.956406677396 966 174 L 915 102 L 903 60 L 771 60 L 759 102 L 708 174 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="812.0" y="115.0">skirt_front</text>
+  <path d="M 1035 168 L 1167 168 L 1176 141 Q 1140.0 121.5 1164 60 L 1119 60 Q 1101.0 106.87744141307178 1083 60 L 1038 60 Q 1062.0 121.49999999999999 1026 141 L 1035 168 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1076.0" y="110.25">top_back</text>
+  <path d="M 1245 165 L 1377 165 L 1386 141 Q 1350.0 121.5 1374 60 L 1329 60 L 1311 138 L 1293 60 L 1248 60 Q 1272.0 121.49999999999999 1236 141 L 1245 165 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1286.0" y="113.0">top_front</text>
+  <path d="M 1446 129 L 1539 141 Q 1575.0 121.5 1551 60 L 1446 60 L 1446 129 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1470.5" y="100.5">lbsleeve</text>
+  <path d="M 1611 141 L 1716 141 Q 1740.0 79.50000000000001 1704 60 L 1611 72 L 1611 141 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1635.5" y="106.5">lfsleeve</text>
+</svg>

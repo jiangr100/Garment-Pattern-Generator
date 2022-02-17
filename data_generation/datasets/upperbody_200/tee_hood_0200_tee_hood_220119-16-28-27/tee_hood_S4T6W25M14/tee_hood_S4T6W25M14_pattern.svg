@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="243px" version="1.1" width="1962px">
+  <defs/>
+  <path d="M 60 183 L 198 183 Q 221.1 118.2 183 99 L 60 60 L 60 183 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="100.25" y="134.25">rbsleeve</text>
+  <path d="M 258 183 L 381 144 Q 419.1 124.8 396 60 L 258 60 L 258 183 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="298.25" y="114.75">rfsleeve</text>
+  <path d="M 456 177 L 792 177 L 720 144 Q 681.9 124.8 705 60 L 675 60 L 624 69 L 573 60 L 543 60 Q 566.1 124.8 528 144 L 456 177 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="599.0" y="108.66666666666667">back</text>
+  <path d="M 852 177 L 1188 177 L 1116 144 Q 1077.9 124.8 1101 60 L 1071 60 L 1020 60 L 969 60 L 939 60 Q 962.1 124.8 924 144 L 852 177 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="995.0" y="107.66666666666667">front</text>
+  <path d="M 1263 171 L 1287 168 Q 1369.8 171.6 1347 60 L 1299 69 L 1248 60 L 1263 171 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1263.8" y="108.6">Rhood</text>
+  <path d="M 1407 171 L 1458 162 L 1506 171 Q 1528.8 59.400000000000006 1446 63 L 1422 60 L 1407 171 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1422.8" y="128.4">Lhood</text>
+  <path d="M 1566 183 L 1689 144 Q 1727.1 124.8 1704 60 L 1566 60 L 1566 183 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1606.25" y="114.75">lbsleeve</text>
+  <path d="M 1764 183 L 1902 183 Q 1925.1 118.2 1887 99 L 1764 60 L 1764 183 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1804.25" y="134.25">lfsleeve</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="288.0px" version="1.1" width="1600.0px">
+  <defs/>
+  <path d="M 60 159 L 147 159 Q 178.2 84.9 135 60 L 60 90 L 60 159 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="75.5" y="120.0">rbsleeve</text>
+  <path d="M 215.5 129.0 L 290.5 159.0 Q 333.70000000000005 134.10000000000002 302.5 60.0 L 215.5 60.0 L 215.5 129.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="231.0" y="105.0">rfsleeve</text>
+  <path d="M 371.0 228.0 L 641.0 228.0 L 590.0 156.0 Q 547.1 133.2 575.0 60.0 L 539.0 60.0 L 506.0 69.0 L 473.0 60.0 L 437.0 60.0 Q 464.9 133.2 422.0 156.0 L 371.0 228.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="481.0" y="122.66666666666667">back</text>
+  <path d="M 701.0 225.0 L 971.0 225.0 L 920.0 156.0 Q 877.1 133.2 905.0 60.0 L 869.0 60.0 L 836.0 66.0 L 803.0 60.0 L 767.0 60.0 Q 794.9 133.2 752.0 156.0 L 701.0 225.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="811.0" y="121.66666666666667">front</text>
+  <path d="M 1031.0 171.0 L 1046.0 171.0 Q 1125.2 171.9 1100.0 66.0 L 1067.0 75.0 L 1031.0 60.0 L 1031.0 171.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1030.0" y="111.6">Rhood</text>
+  <path d="M 1160.0 171.0 L 1196.0 156.0 L 1229.0 165.0 Q 1254.2 59.1 1175.0 60.0 L 1160.0 60.0 L 1160.0 171.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1159.0" y="125.4">Lhood</text>
+  <path d="M 1289.0 129.0 L 1364.0 159.0 Q 1407.1999999999998 134.10000000000002 1376.0 60.0 L 1289.0 60.0 L 1289.0 129.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1304.5" y="105.0">lbsleeve</text>
+  <path d="M 1444.5 159.0 L 1531.5 159.0 Q 1562.6999999999998 84.9 1519.5 60.0 L 1444.5 90.0 L 1444.5 159.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1460.0" y="120.0">lfsleeve</text>
+</svg>

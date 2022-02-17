@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="363px" version="1.1" width="2112px">
+  <defs/>
+  <path d="M 60 216 L 165 216 Q 184.2 162.89999999999998 153 147 L 60 60 L 60 216 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="84.5" y="162.75">rbsleeve</text>
+  <path d="M 225 216 L 318 129 Q 349.20000000000005 113.1 330 60 L 225 60 L 225 216 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="249.5" y="119.25">rfsleeve</text>
+  <path d="M 390 303 Q 603.0 316.05329706983895 816 303 L 669 102 L 651 60 L 555 60 L 537 102 L 390 303 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="578.0" y="158.0">skirt_back</text>
+  <path d="M 876 303 Q 1089.0 267.59728210377267 1302 303 L 1155 102 L 1137 60 L 1041 60 L 1023 102 L 876 303 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1064.0" y="158.0">skirt_front</text>
+  <path d="M 1389 168 L 1485 168 L 1512 129 Q 1480.8000000000002 113.1 1500 60 L 1464 60 Q 1437.0 81.90657660097268 1410 60 L 1374 60 Q 1393.1999999999998 113.1 1362 129 L 1389 168 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1412.0" y="107.25">top_back</text>
+  <path d="M 1599 165 L 1695 165 L 1722 129 Q 1690.8000000000002 113.1 1710 60 L 1674 60 L 1647 69 L 1620 60 L 1584 60 Q 1603.1999999999998 113.1 1572 129 L 1599 165 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1622.0" y="102.66666666666667">top_front</text>
+  <path d="M 1782 216 L 1875 129 Q 1906.1999999999998 113.1 1887 60 L 1782 60 L 1782 216 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1806.5" y="119.25">lbsleeve</text>
+  <path d="M 1947 216 L 2052 216 Q 2071.2 162.89999999999998 2040 147 L 1947 60 L 1947 216 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1971.5" y="162.75">lfsleeve</text>
+</svg>

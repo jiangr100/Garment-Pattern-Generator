@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="327px" version="1.1" width="1536px">
+  <defs/>
+  <path d="M 60 186 L 171 186 Q 192.9 123.30000000000001 156 105 L 60 60 L 60 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="86.75" y="137.25">rbsleeve</text>
+  <path d="M 231 186 L 327 141 Q 363.9 122.7 342 60 L 231 60 L 231 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="257.75" y="114.75">rfsleeve</text>
+  <path d="M 411 267 L 573 267 L 582 141 Q 545.1 122.7 567 60 L 540 60 L 492 69 L 444 60 L 417 60 Q 438.9 122.69999999999999 402 141 L 411 267 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="467.0" y="128.0">back</text>
+  <path d="M 651 267 L 813 267 L 822 141 Q 785.1 122.7 807 60 L 780 60 L 732 93 L 684 60 L 657 60 Q 678.9 122.69999999999999 642 141 L 651 267 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="707.0" y="130.66666666666669">front</text>
+  <path d="M 897 189 L 933 189 Q 1009.5 184.5 978 84 L 933 93 L 882 60 L 897 189 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="899.6" y="126.0">Rhood</text>
+  <path d="M 1038 189 L 1089 156 L 1134 165 Q 1165.5 64.5 1089 60 L 1053 60 L 1038 189 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1055.6" y="129.0">Lhood</text>
+  <path d="M 1194 186 L 1290 141 Q 1326.9 122.7 1305 60 L 1194 60 L 1194 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1220.75" y="114.75">lbsleeve</text>
+  <path d="M 1365 186 L 1476 186 Q 1497.9 123.30000000000001 1461 105 L 1365 60 L 1365 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1391.75" y="137.25">lfsleeve</text>
+</svg>

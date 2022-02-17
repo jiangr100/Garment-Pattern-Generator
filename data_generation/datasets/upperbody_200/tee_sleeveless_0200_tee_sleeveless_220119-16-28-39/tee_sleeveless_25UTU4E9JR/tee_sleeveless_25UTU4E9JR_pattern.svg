@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="243px" version="1.1" width="660px">
+  <defs/>
+  <path d="M 60 183 L 300 183 L 243 111 Q 219.9 99.3 234 60 L 204 60 Q 180.0 140.71155237045974 156 60 L 126 60 Q 140.1 99.29999999999998 117 111 L 60 183 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="155.0" y="106.5">back</text>
+  <path d="M 360 183 L 600 183 L 543 111 Q 519.9 99.3 534 60 L 504 60 L 480 162 L 456 60 L 426 60 Q 440.09999999999997 99.29999999999998 417 111 L 360 183 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="455.0" y="113.0">front</text>
+</svg>

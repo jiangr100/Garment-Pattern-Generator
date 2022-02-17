@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="246px" version="1.1" width="1968px">
+  <defs/>
+  <path d="M 60 186 L 186 186 Q 214.8 116.10000000000001 174 93 L 60 60 L 60 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="95.0" y="134.25">rbsleeve</text>
+  <path d="M 246 186 L 360 153 Q 400.8 129.9 372 60 L 246 60 L 246 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="281.0" y="117.75">rfsleeve</text>
+  <path d="M 432 186 Q 582.0 284.58129795041725 732 186 L 651 102 L 639 60 L 525 60 L 513 102 L 432 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="557.0" y="119.0">skirt_back</text>
+  <path d="M 792 186 Q 942.0 83.95818357585343 1092 186 L 1011 102 L 999 60 L 885 60 L 873 102 L 792 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="917.0" y="119.0">skirt_front</text>
+  <path d="M 1176 168 L 1290 168 L 1314 150 Q 1274.4 127.8 1302 60 L 1272 60 Q 1233.0 119.0066219034315 1194 60 L 1164 60 Q 1191.6 127.8 1152 150 L 1176 168 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1208.0" y="112.5">top_back</text>
+  <path d="M 1398 165 L 1512 165 L 1536 150 Q 1496.4 127.8 1524 60 L 1494 60 L 1455 75 L 1416 60 L 1386 60 Q 1413.6 127.8 1374 150 L 1398 165 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1430.0" y="108.0">top_front</text>
+  <path d="M 1596 186 L 1710 153 Q 1750.8 129.9 1722 60 L 1596 60 L 1596 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1631.0" y="117.75">lbsleeve</text>
+  <path d="M 1782 186 L 1908 186 Q 1936.8 116.10000000000001 1896 93 L 1782 60 L 1782 186 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1817.0" y="134.25">lfsleeve</text>
+</svg>

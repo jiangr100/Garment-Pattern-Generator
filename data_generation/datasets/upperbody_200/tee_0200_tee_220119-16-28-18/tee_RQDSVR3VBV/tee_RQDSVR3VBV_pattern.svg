@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="501.0px" version="1.1" width="1189.0px">
+  <defs/>
+  <path d="M 60 198 L 162 198 Q 174.3 152.1 147 141 L 60 60 L 60 198 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="82.25" y="152.25">rbsleeve</text>
+  <path d="M 222.25 198.0 L 309.25 117.0 Q 336.55 105.9 324.25 60.0 L 222.25 60.0 L 222.25 198.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="244.5" y="111.75">rfsleeve</text>
+  <path d="M 399.5 441.0 L 549.5 441.0 L 564.5 117.0 Q 538.1 104.7 552.5 60.0 L 492.5 60.0 Q 474.5 117.27819455889241 456.5 60.0 L 396.5 60.0 Q 410.90000000000003 104.7 384.5 117.0 L 399.5 441.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="449.5" y="172.5">back</text>
+  <path d="M 639.5 441.0 L 789.5 441.0 L 804.5 117.0 Q 778.1 104.7 792.5 60.0 L 732.5 60.0 L 714.5 81.0 L 696.5 60.0 L 636.5 60.0 Q 650.9 104.7 624.5 117.0 L 639.5 441.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="689.5" y="162.66666666666666">front</text>
+  <path d="M 864.5 198.0 L 951.5 117.0 Q 978.8 105.9 966.5 60.0 L 864.5 60.0 L 864.5 198.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="886.75" y="111.75">lbsleeve</text>
+  <path d="M 1026.75 198.0 L 1128.75 198.0 Q 1141.05 152.1 1113.75 141.0 L 1026.75 60.0 L 1026.75 198.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1049.0" y="152.25">lfsleeve</text>
+</svg>

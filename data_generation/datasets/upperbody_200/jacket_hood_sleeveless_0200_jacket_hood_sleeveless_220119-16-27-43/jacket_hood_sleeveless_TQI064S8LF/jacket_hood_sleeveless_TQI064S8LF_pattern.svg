@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="342px" version="1.1" width="1165.5px">
+  <defs/>
+  <path d="M 60 282 L 222 282 L 222 66 L 195 60 L 162 60 Q 174.0 100.49999999999999 150 111 L 60 282 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="143.5" y="146.5">front_right</text>
+  <path d="M 313.5 174.0 L 376.5 165.0 Q 439.5 133.5 376.5 60.0 L 349.5 69.0 L 322.5 63.0 L 313.5 174.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="322.7" y="109.2">Rhood</text>
+  <path d="M 436.5 282.0 L 760.5 282.0 L 670.5 111.0 Q 646.5 100.5 658.5 60.0 L 625.5 60.0 L 598.5 69.0 L 571.5 60.0 L 538.5 60.0 Q 550.5 100.49999999999999 526.5 111.0 L 436.5 282.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="573.5" y="124.66666666666667">back</text>
+  <path d="M 829.5 171.0 L 856.5 165.0 L 883.5 174.0 Q 946.5 100.5 883.5 69.0 L 820.5 60.0 L 829.5 171.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="829.7" y="130.8">Lhood</text>
+  <path d="M 943.5 282.0 L 1105.5 282.0 L 1015.5 111.0 Q 991.5 100.5 1003.5 60.0 L 970.5 60.0 L 943.5 66.0 L 943.5 282.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="972.0" y="146.5">front_left</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="264.0px" version="1.1" width="1658.0px">
+  <defs/>
+  <path d="M 60 129 L 150 129 Q 167.1 74.7 135 60 L 60 63 L 60 129 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="76.25" y="98.25">rbsleeve</text>
+  <path d="M 216.25 126.0 L 291.25 129.0 Q 323.35 114.3 306.25 60.0 L 216.25 60.0 L 216.25 126.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="232.5" y="96.75">rfsleeve</text>
+  <path d="M 384.5 204.0 Q 456.5 149.58996304756232 528.5 204.0 L 540.5 102.0 L 519.5 60.0 L 393.5 60.0 L 372.5 102.0 L 384.5 204.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="431.5" y="125.0">skirt_back</text>
+  <path d="M 612.5 204.0 Q 684.5 267.4444516536293 756.5 204.0 L 768.5 102.0 L 747.5 60.0 L 621.5 60.0 L 600.5 102.0 L 612.5 204.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="659.5" y="125.0">skirt_front</text>
+  <path d="M 865.5 168.0 L 991.5 168.0 L 1027.5 129.0 Q 995.4 114.3 1012.5 60.0 L 979.5 60.0 Q 928.5 95.46006128118262 877.5 60.0 L 844.5 60.0 Q 861.6 114.3 829.5 129.0 L 865.5 168.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="903.5" y="107.25">top_back</text>
+  <path d="M 1123.5 165.0 L 1249.5 165.0 L 1285.5 129.0 Q 1253.4 114.3 1270.5 60.0 L 1237.5 60.0 L 1186.5 123.0 L 1135.5 60.0 L 1102.5 60.0 Q 1119.6 114.3 1087.5 129.0 L 1123.5 165.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1161.5" y="108.66666666666667">top_front</text>
+  <path d="M 1345.5 126.0 L 1420.5 129.0 Q 1452.6 114.3 1435.5 60.0 L 1345.5 60.0 L 1345.5 126.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1361.75" y="96.75">lbsleeve</text>
+  <path d="M 1501.75 129.0 L 1591.75 129.0 Q 1608.85 74.7 1576.75 60.0 L 1501.75 63.0 L 1501.75 129.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1518.0" y="98.25">lfsleeve</text>
+</svg>

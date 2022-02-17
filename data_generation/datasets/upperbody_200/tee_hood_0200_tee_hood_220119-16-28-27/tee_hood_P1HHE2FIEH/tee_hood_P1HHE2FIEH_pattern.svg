@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="348px" version="1.1" width="1734px">
+  <defs/>
+  <path d="M 60 153 L 201 153 Q 231.89999999999998 84.30000000000001 192 60 L 60 78 L 60 153 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="103.25" y="114.0">rbsleeve</text>
+  <path d="M 261 135 L 393 153 Q 432.9 128.7 402 60 L 261 60 L 261 135 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="304.25" y="105.0">rfsleeve</text>
+  <path d="M 462 288 L 714 288 L 648 150 Q 609.3 126.6 639 60 L 612 60 L 588 69 L 564 60 L 537 60 Q 566.7 126.6 528 150 L 462 288 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="563.0" y="134.66666666666666">back</text>
+  <path d="M 774 288 L 1026 288 L 960 150 Q 921.3 126.6 951 60 L 924 60 L 900 69 L 876 60 L 849 60 Q 878.7 126.6 840 150 L 774 288 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="875.0" y="134.66666666666666">front</text>
+  <path d="M 1086 159 L 1128 162 Q 1190.1 146.7 1149 69 L 1122 78 L 1095 60 L 1086 159 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1091.0" y="108.6">Rhood</text>
+  <path d="M 1218 162 L 1245 144 L 1272 153 Q 1313.1 75.30000000000001 1251 60 L 1209 63 L 1218 162 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1214.0" y="119.4">Lhood</text>
+  <path d="M 1332 135 L 1464 153 Q 1503.9 128.7 1473 60 L 1332 60 L 1332 135 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1375.25" y="105.0">lbsleeve</text>
+  <path d="M 1533 153 L 1674 153 Q 1704.9 84.30000000000001 1665 60 L 1533 78 L 1533 153 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1576.25" y="114.0">lfsleeve</text>
+</svg>

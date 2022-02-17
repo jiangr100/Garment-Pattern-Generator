@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="252px" version="1.1" width="1325.0px">
+  <defs/>
+  <path d="M 60 192 L 78 192 Q 89.7 156.9 69 147 L 60 60 L 60 192 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="41.75" y="150.75">rbsleeve</text>
+  <path d="M 181.75 192.0 L 190.75 105.0 Q 211.45 95.1 199.75 60.0 L 181.75 60.0 L 181.75 192.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="163.5" y="107.25">rfsleeve</text>
+  <path d="M 312.5 150.0 L 363.5 150.0 L 363.5 69.0 L 330.5 60.0 L 312.5 60.0 Q 325.4 97.19999999999999 303.5 108.0 L 312.5 150.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="306.0" y="102.5">front_right</text>
+  <path d="M 476.0 147.0 L 488.0 150.0 Q 559.1 157.2 545.0 60.0 L 512.0 69.0 L 476.0 60.0 L 476.0 147.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="474.4" y="100.2">Rhood</text>
+  <path d="M 614.0 150.0 L 716.0 150.0 L 725.0 108.0 Q 703.0999999999999 97.19999999999999 716.0 60.0 L 698.0 60.0 L 665.0 69.0 L 632.0 60.0 L 614.0 60.0 Q 626.9000000000001 97.19999999999999 605.0 108.0 L 614.0 150.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="640.0" y="94.66666666666667">back</text>
+  <path d="M 785.0 150.0 L 821.0 141.0 L 854.0 150.0 Q 868.1 52.800000000000004 797.0 60.0 L 785.0 63.0 L 785.0 150.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="783.4" y="115.8">Lhood</text>
+  <path d="M 914.0 150.0 L 965.0 150.0 L 974.0 108.0 Q 952.0999999999999 97.19999999999999 965.0 60.0 L 947.0 60.0 L 914.0 69.0 L 914.0 150.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="921.5" y="102.5">front_left</text>
+  <path d="M 1081.5 192.0 L 1090.5 105.0 Q 1111.2 95.1 1099.5 60.0 L 1081.5 60.0 L 1081.5 192.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1063.25" y="107.25">lbsleeve</text>
+  <path d="M 1203.25 192.0 L 1221.25 192.0 Q 1232.95 156.9 1212.25 147.0 L 1203.25 60.0 L 1203.25 192.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1185.0" y="150.75">lfsleeve</text>
+</svg>

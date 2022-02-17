@@ -1,0 +1,26 @@
+{
+  "data_folder": "jacket_0020_jacket_220208-16-23-27",
+  "generator": {
+    "config": {
+      "random_seed": 1644330207
+    },
+    "stats": {
+      "generation_time": "1.128 s"
+    }
+  },
+  "name": "jacket_0020",
+  "size": 20,
+  "system_info": {
+    "GPU": [
+      "NVIDIA GeForce RTX 3090"
+    ],
+    "architecture": "AMD64",
+    "platform": "Windows",
+    "platform-release": "10",
+    "platform-version": "10.0.19044",
+    "processor": "AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD",
+    "ram": "8 GB"
+  },
+  "templates": "C:\\Users\\Rui_work\\Documents\\Garment-Pattern-Generator\\data_generation\\Patterns\\upper_body_altered\\jacket.json",
+  "to_subfolders": true
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="315.0px" version="1.1" width="1349.0px">
+  <defs/>
+  <path d="M 60 153 L 135 153 Q 151.8 104.10000000000001 123 90 L 60 60 L 60 153 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="69.5" y="117.0">rbsleeve</text>
+  <path d="M 209.5 153.0 L 272.5 123.0 Q 301.3 108.89999999999999 284.5 60.0 L 209.5 60.0 L 209.5 153.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="219.0" y="102.0">rfsleeve</text>
+  <path d="M 359.0 255.0 L 476.0 255.0 L 476.0 90.0 L 461.0 60.0 L 422.0 60.0 Q 438.8 108.89999999999999 410.0 123.0 L 359.0 255.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="409.0" y="143.5">front_right</text>
+  <path d="M 579.0 255.0 L 813.0 255.0 L 762.0 123.0 Q 733.1999999999999 108.89999999999999 750.0 60.0 L 711.0 60.0 Q 696.0 70.74726877247143 681.0 60.0 L 642.0 60.0 Q 658.8000000000001 108.89999999999999 630.0 123.0 L 579.0 255.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="671.0" y="127.5">back</text>
+  <path d="M 873.0 255.0 L 990.0 255.0 L 939.0 123.0 Q 910.1999999999999 108.89999999999999 927.0 60.0 L 888.0 60.0 L 873.0 90.0 L 873.0 255.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="890.0" y="143.5">front_left</text>
+  <path d="M 1050.0 153.0 L 1113.0 123.0 Q 1141.8 108.89999999999999 1125.0 60.0 L 1050.0 60.0 L 1050.0 153.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1059.5" y="102.0">lbsleeve</text>
+  <path d="M 1199.5 153.0 L 1274.5 153.0 Q 1291.3 104.10000000000001 1262.5 90.0 L 1199.5 60.0 L 1199.5 153.0 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1209.0" y="117.0">lfsleeve</text>
+</svg>
